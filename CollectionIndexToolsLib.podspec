@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CollectionIndexToolsLib'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Custom IndexTools similar to TableViews index bar'
 
   s.description      = <<-DESC
