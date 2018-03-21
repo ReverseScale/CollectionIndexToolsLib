@@ -1,0 +1,22 @@
+{
+  "name": "CollectionIndexToolsLib",
+  "version": "0.1.0",
+  "summary": "A short description of CollectionIndexToolsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ReverseScale@icloud.com/CollectionIndexToolsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ReverseScale@icloud.com": "reversescale@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/ReverseScale@icloud.com/CollectionIndexToolsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CollectionIndexToolsLib/Classes/**/*"
+}
